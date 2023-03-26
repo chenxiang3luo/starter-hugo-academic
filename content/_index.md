@@ -36,8 +36,7 @@ sections:
       date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_
-      `.
+      #   Required fields are `title`, `company`, and `date_`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
